@@ -1,0 +1,58 @@
+/* SIGN UP FORM */
+.navbar{
+  background-color: black !important;
+  padding: 15px !important;
+}
+.nav-link{
+  color: white !important;
+}
+#body{
+  background-color: rgb(71, 65, 65);
+  margin-top: 0% !important;
+  padding: 10px;
+}
+section{
+  margin: 0% !important;
+}
+.center{
+    text-align: center;
+    padding: 10px 0 0 0;
+}
+/* * {box-sizing: border-box} */
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1
+}
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+/* hr { 
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+} */
+
+/* Set a style for all buttons that have this class */
+.button {
+  background-color: black;
+  
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+.sign{
+  margin: 5% 2%;
+}
